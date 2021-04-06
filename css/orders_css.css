@@ -1,0 +1,15 @@
+
+
+
+.nav-item:hover{
+background-color:#bfbfbf;
+}
+
+textarea.form-control {
+    height: calc(2.25rem + 2px);
+}
+
+
+.card-body{
+max-width:110px;
+}

@@ -1,0 +1,19 @@
+footer {
+    background-color:#282d32; min-height:150px; color:white;
+}
+
+.copy-right{
+    display: flex; justify-content:center;   align-items: flex-end; min-height:100px;
+}
+
+.social{
+    display: flex; justify-content:center;   align-items: flex-start; min-height:90px;
+}
+
+.social div{
+    display: flex; justify-content:space-around;   align-items: center; min-width:300px;
+}
+
+.social div a{
+    font-size:40px;
+}
